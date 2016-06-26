@@ -1,0 +1,22 @@
+.navbar-button {
+ margin-top:18px;
+ margin-bottom:18px;
+ height:36px;
+ box-sizing:border-box;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+  background-color: #440c59;
+  border-color: #440c59;
+
+}
+
+.bookingCancelled {
+
+  text-decoration:line-through;
+
+}

@@ -1,0 +1,49 @@
+/* notifications icon */
+
+.nav > li >  notifications-modal > div > a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+
+.navbar-nav > li >  notifications-modal > div > a, .navbar-brand, .hamburger {
+    height: 70px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.navbar-nav > li >  notifications-modal > div > a {
+    cursor: pointer;
+    font-weight: 400;
+}
+
+@media (min-width: 768px) {
+    .navbar-nav > li >  notifications-modal > div > a {
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+}
+
+.navbar-nav > li >  notifications-modal > div > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 22px;
+}
+
+.navbar-inverse .navbar-nav > li >  notifications-modal > div > a {
+    color: #a4aaae;
+}
+
+#modal-notifications .modal-header .btn-group {
+    width: 100%;
+}
+
+.m-b-none {
+    margin-bottom:0;
+}
