@@ -1,6 +1,6 @@
 {
   "name": "react-spark-js",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "React components for Spark",
   "author": "Darren Merrett <darren.merrett@gmail.com>",
   "main": "react-spark.js",
